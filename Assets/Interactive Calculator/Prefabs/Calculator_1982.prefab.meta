@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4e715295b649cc43b77803a1fa43470
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251926
+  packageName: Interactive Calculators
+  packageVersion: 1.0.0
+  assetPath: Assets/Interactive Calculator/Prefabs/Calculator_1982.prefab
+  uploadId: 588847

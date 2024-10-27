@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1b0c4ae548e1cd4580766c2d7c95ce5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133222
+  packageName: 'Ultimate Hat: Party'
+  packageVersion: 1.0
+  assetPath: Assets/DANKIE/UltimateHatPack/Party/_Shared/Shaders/DankDoubleSided.shader
+  uploadId: 278711

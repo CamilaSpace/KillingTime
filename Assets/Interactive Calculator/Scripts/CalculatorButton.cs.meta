@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8e629bb8c6e5a345806513ea5afc46a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251926
+  packageName: Interactive Calculators
+  packageVersion: 1.0.0
+  assetPath: Assets/Interactive Calculator/Scripts/CalculatorButton.cs
+  uploadId: 588847

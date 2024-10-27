@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34782dbf240330841933c6050a417ae3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251926
+  packageName: Interactive Calculators
+  packageVersion: 1.0.0
+  assetPath: Assets/Interactive Calculator/Third-Party Notices.txt
+  uploadId: 588847
