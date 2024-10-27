@@ -35,7 +35,7 @@ public class Interact : MonoBehaviour
 
     void Update()
     {
-        if(evidence.Count == 2)
+        if(evidence.Count >= 3)
         {
                 print("Work pls");
                 SceneManager.LoadScene(3);

@@ -137,7 +137,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &32696183
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2190,7 +2190,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1376799085
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2763,6 +2763,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   evidence: []
+  tornLoveLetterIcon: {fileID: 1376799084}
+  partyHatIcon: {fileID: 1674066098}
+  calculatorIcon: {fileID: 32696182}
 --- !u!1001 &1586177011
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3041,7 +3044,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1674066099
 RectTransform:
   m_ObjectHideFlags: 0
