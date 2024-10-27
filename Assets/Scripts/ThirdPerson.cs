@@ -28,5 +28,6 @@ public class ThirdPerson : MonoBehaviour
             playerObj.forward = Vector3.Slerp(playerObj.forward, inputDirection.normalized, Time.deltaTime * rotateSpeed);
         }
         
+        
     }
 }
