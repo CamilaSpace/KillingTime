@@ -107,6 +107,7 @@ public class EndingDialogue : MonoBehaviour
         panel.SetActive(true);
 
         TextMeshProUGUI text = panel.GetComponentInChildren<TextMeshProUGUI>();
+        continuePrompt.SetActive(true);
         
         text.text = "Here are our suspects: George, Manny, Baka, and Calculus";
         yield return WaitForKeyPress(KeyCode.Space);
@@ -124,6 +125,7 @@ public class EndingDialogue : MonoBehaviour
         yield return WaitForKeyPress(KeyCode.Space);
 
         text.text = "*After gathering all of the evidence, you are ready to accuse one of the other suspects.\nWho will you convict in the murder of Giff Tanner?*";
+        continuePrompt.SetActive(false);
         yield return null;
     }
 

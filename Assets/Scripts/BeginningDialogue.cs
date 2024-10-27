@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class BeginningDialogue : MonoBehaviour
 {
     public GameObject panel;
+    public GameObject continuePrompt;
     private string[] dialogues = { "Stranger:\nHey! Hey you!", "Stranger:\nYou've gotta help me out here.", "Martina McFlew:\nMy name is Martina McFlew, and I'm on trial for the murder of Giff Tanner, but I'm innocent! Please believe me.",
                                 "Martina McFlew:\nYou...\nYou do believe me!?", "Martina McFlew:\nThat's great!", "Martina McFlew:\nThat means that I can trust you to help prove my innocence, right?", "Martina McFlew:\nSince you're a private investigator, it'll cost me huh?",
                                 "Martina McFlew:\nHow about this: Take this pen.", "*Confused, you take the mysterious pen from Martina.*", "Martina McFlew:\nThat pen will let you time travel to both the past and back to the future.",

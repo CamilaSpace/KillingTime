@@ -346,12 +346,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25ccdca9e374c5f45a83cb12799e9b36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gradCordIcon: {fileID: 1347766631}
-  knifeIcon: {fileID: 1898718281}
-  bTestIcon: {fileID: 693352389}
-  tornLoveLetterIcon: {fileID: 894191936}
-  partyHatIcon: {fileID: 1442995428}
-  calculatorIcon: {fileID: 1095653872}
   evidence: []
 --- !u!1 &551233790
 GameObject:
@@ -1706,7 +1700,7 @@ Transform:
   m_GameObject: {fileID: 1483334116}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 23, y: 252, z: -302}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
